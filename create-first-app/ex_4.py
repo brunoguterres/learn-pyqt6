@@ -13,7 +13,7 @@ class MainWindow(QMainWindow):
 
         button = QPushButton("Press Me!")
 
-        self.setFixedSize(QSize(400, 300))
+        self.setMinimumSize(QSize(400, 300))
 
         # Set the central widget of the Window.
         self.setCentralWidget(button)
