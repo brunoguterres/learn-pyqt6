@@ -9,6 +9,8 @@ class MainWindow(QMainWindow):
     def __init__(self):
         super().__init__()
 
+        self.setWindowTitle('Janela de teste')
+
     def contextMenuEvent(self, e):
         context = QMenu(self)
         context.addAction(QAction("test 1", self))
