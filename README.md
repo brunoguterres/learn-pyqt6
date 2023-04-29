@@ -1,5 +1,5 @@
 <h1>
- Códigos Python de Aprendizagem PyQt5
+ Códigos Python de Aprendizagem PyQt6
 </h1>
 
 > Status: em desenvolvimento
